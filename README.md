@@ -10,10 +10,8 @@ Improve prediction model by adding data through the Foursquare API.
 
 ## 2.Description of the data
 The main data used for this project will be from two sources:
-
 The rent/sale condo price in Sao Paulo. (Kaggle)
 The venues in each neighborhood. (FourSquare API)
-Link to kaggle Dataset
 
 ### Using data to solve the question:
 First, correlation between sale price and all factors will be checked.
